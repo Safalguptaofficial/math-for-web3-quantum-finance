@@ -1,6 +1,6 @@
 # 🌐 Math for Web3 × Quantum × Finance
 
-> Built by [Your Name] | VIT Vellore CSE IoT | April 2026 →
+> Built by [safal gupta] | VIT Vellore CSE IoT | April 2026 →
 
 ## 🎯 What This Repo Is
 A complete journey from mathematical foundations to 
